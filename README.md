@@ -3,8 +3,8 @@
 <h2>Technologies<h2>
 <ul>
 <p>-Frontend: HTML5/CSS3, JavaScript, React</p>
-<p>-Backend & Database: Python, Django, SQL, C++</p>
-<p>-Soft skills: Git</p>
+<p>-Backend & Database: Python, Django, Flask, SQL, C++</p>
+<p>-Soft skills: Git, Scrum, Linux, Pandas</p>
  </ul>
 
 <h3>I started learning IT abilities from really early in my life, my father as a Software Engineer with large experience teached me since my childhood how does a computer work, how to repair it on hardware and software level. Later in my adolescence i started learning programming basics with Scratch, Python and C++. Droped my computer engineer carreer at second year, there i learned C++ and Java basics.</h3>
