@@ -15,14 +15,25 @@ At the same time started a full stack developer course where i learned Python, D
 At the moment i'm learning at ISPC the carreer of Data Science and Artificial Intelligence.  
 I trully believe that the best job is one where i can keep learning about new technologies and improving myself.  
 
+##Currently working
+Currently i'm open to work, developing a website of Italian Municipalities with Django, there you can have different services and also get information about the Italian Citizenship.    
+Check it out at this [Link](https://agustinpic.pythonanywhere.com/).  
+Also the code is avaiable at this [Link](https://github.com/agustinpic72/cittza).  
+
+##Projects
+Django web scraper [Code](https://github.com/agustinpic72/Django_webScraper).  
+Italian Municipalities scraper [Code](https://github.com/agustinpic72/web_scrapper_comuni).  
+Flask Rest Api [Code](https://github.com/agustinpic72/rest_api_flask).  
+Dolar Value [Code](https://github.com/agustinpic72/valor_dolar).  
+
 ##Languages
--Spanish: Native
--English: Advanced
--Italian: Advanced
+-Spanish: Native  
+-English: Advanced  
+-Italian: Advanced  
 
 ##Contact
-Mail: agustinpiccoli@gmail.com
-Linkedin: https://www.linkedin.com/in/agustin-piccoli/
-Github: https://github.com/agustinpic72
+Mail: agustinpiccoli@gmail.com  
+Linkedin: https://www.linkedin.com/in/agustin-piccoli/  
+Github: https://github.com/agustinpic72  
 
 
