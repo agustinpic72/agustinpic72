@@ -3,7 +3,7 @@
 
 
 ##Technologies
--Python: Django, Flask, Selenium, Matplot, SqlAlchemy, SQLite, Pandas, Pytest, Unittest, OOP, Web Scraping.
+-Python: Django, Flask, Selenium, Matplot, SqlAlchemy, SQLite, Pandas, Pytest, Unittest, OOP, Web Scraping.:-
 -Frontend: HTML5/CSS3, JavaScript, React, Bootstrap.
 -Backend: Python, Django-ORM, Flask, SQL, Workbench, MongoDB, Postgres, Postman.
 -Soft skills: Git, Scrum, Linux, Pandas, VSCode, Bash, Scrum, Kanban.
