@@ -17,8 +17,7 @@ I trully believe that the best job is one where i can keep learning about new te
 
 <h3>Currently working</h3>
 Currently i'm open to work, developing a website of Italian Municipalities with Django, there you can have different services and also get information about the Italian Citizenship.    <br>
-Check it out <a href='https://agustinpic.pythonanywhere.com/'>here!</a>. <br> 
-Also the code is <a href='https://github.com/agustinpic72/cittza'>here</a>.  <br>
+Check it out <a href='https://www.vivirenitalia.com.ar/'>here!</a>. <br> 
 
 <h3>Projects</h3>
 Django web scraper <a href='https://github.com/agustinpic72/Django_webScraper'>Code</a>.  <br>
