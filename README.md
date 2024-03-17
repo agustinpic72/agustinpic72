@@ -11,7 +11,7 @@
 <h3>Who am i?</h3>
 Started learning IT abilities at my early stages, my father as a Software Engineer with large experience teached me since my childhood how does a computer work, how to repair it on hardware and software level. Later in my adolescence i started learning programming basics with Scratch, Python and C++. Droped my computer engineer carreer at second year, there i learned C++ and Java basics.  <br>
 My first official job in IT was at CordobaTSI where i worked with both hardware and software, programming some scripts and repairing pcs and printers. At the same time started an own entrepreneurship repairing PCs, laptops, and also making crypto miners.  <br>
-At the same time started a full stack developer course where i learned Python, Django, NodeJs, JavaScript, Git and HTML.  <br>
+At the same time started a full stack developer course where i learned Python, Django, NodeJs, JavaScript and Git <br>
 At the moment i'm learning at ISPC the carreer of Data Science and Artificial Intelligence.  <br>
 I trully believe that the best job is one where i can keep learning about new technologies and improving myself.  <br>
 
