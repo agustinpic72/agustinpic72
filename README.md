@@ -16,7 +16,7 @@ At the moment i'm learning at ISPC the carreer of Data Science and Artificial In
 I trully believe that the best job is one where i can keep learning about new technologies and improving myself.  <br>
 
 <h3>Currently working</h3>
-Currently i'm working in an Italian enterprise, called AFA Systems<br>
+Currently i'm working in an Italian enterprise, called ZonWizard<br>
 
 
 <h3>Projects</h3>
