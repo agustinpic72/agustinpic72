@@ -1,38 +1,31 @@
-<h1>Agustin Piccoli</h1>
-<h2>Python full stack developer</h2>
+# Hi, I'm Agustin Piccoli
 
+Python Software Engineer and backend-leaning Full-Stack Engineer building SaaS products, APIs, automation, and practical AI integrations.
 
-<h3>Technologies</h3>
--Python: Django, Flask, Selenium, Matplot, SqlAlchemy, SQLite, Pandas, Pytest, Unittest, OOP, Web Scraping.  <br>
--Frontend: HTML5/CSS3, JavaScript, React, Bootstrap.  <br>
--Backend: Python, Django-ORM, Flask, SQL, Workbench, MongoDB, Postgres, Postman.  <br>
--Soft skills: Git, Scrum, Linux, Pandas, VSCode, Bash, Scrum, Kanban.  <br><br>
+I'm open to remote Python Backend and Full-Stack roles, available immediately, and an Italian citizen with full EU work authorization.
 
-<h3>Who am i?</h3>
-Started learning IT abilities at my early stages, my father as a Software Engineer with large experience teached me since my childhood how does a computer work, how to repair it on hardware and software level. Later in my adolescence i started learning programming basics with Scratch, Python and C++. Droped my computer engineer carreer at second year, there i learned C++ and Java basics.  <br>
-My first official job in IT was at CordobaTSI where i worked with both hardware and software, programming some scripts and repairing pcs and printers. At the same time started an own entrepreneurship repairing PCs, laptops, and also making crypto miners.  <br>
-At the same time started a full stack developer course where i learned Python, Django, NodeJs, JavaScript and Git <br>
-At the moment i'm learning at Techtitute the carreer of Software Engineer.  <br>
-I trully believe that the best job is one where i can keep learning about new technologies and improving myself.  <br>
+## Selected work
 
-<h3>Currently working</h3>
-Currently i'm working in an Italian enterprise, called ZonWizard<br>
+- **[AlphaWave TaskD](https://github.com/agustinpic72/alphawave-taskd)** — a local-first task command center built with FastAPI, React, TypeScript, SQLite, and Docker. Open-source release: **v0.1.0**.
+- **MT5 Backtesting Toolkit** — Coming soon - sanitized public extraction in progress.
+- **Velari Workflow Reliability Showcase** — Coming later - sanitized architecture showcase.
 
+## Core stack
 
-<h3>Projects</h3>
-Django web scraper <a href='https://github.com/agustinpic72/Django_webScraper'>Code</a>.  <br>
-Italian Municipalities scraper <a href='https://github.com/agustinpic72/web_scrapper_comuni'>Code</a>.  <br>
-Flask Rest Api <a href='https://github.com/agustinpic72/rest_api_flask'>Code</a>.  <br>
-Dolar Value <a href='https://github.com/agustinpic72/valor_dolar'>Code</a>.  <br>
+- Python, Django, Django REST Framework, FastAPI
+- PostgreSQL, SQLite, SQLAlchemy
+- React, TypeScript, Vite
+- REST APIs, OAuth, WebSockets, async workflows
+- Docker, Linux, GitHub Actions
+- OpenAI and third-party API integrations
 
-<h3>Languages</h3>
--Spanish: Native  <br>
--English: Advanced  <br>
--Italian: Advanced  <br>
+## Languages
 
-<h3>Contact</h3>
-Mail: agustinpiccoli@gmail.com  <br>
-<a href='https://www.linkedin.com/in/agustin-piccoli/'>Linkedin</a>  <br> 
-<a href='https://github.com/agustinpic72 '>Github</a>   <br>
+- Spanish — Native
+- Italian — Native or bilingual
+- English — [C2 Proficient](https://cert.efset.org/vqgNBC)
 
+## Contact
 
+- [LinkedIn](https://www.linkedin.com/in/agustin-piccoli/)
+- [agustinpiccoli@gmail.com](mailto:agustinpiccoli@gmail.com)
