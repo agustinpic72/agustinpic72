@@ -7,7 +7,9 @@ I'm open to remote Python Backend and Full-Stack roles, available immediately, a
 ## Selected work
 
 - **[AlphaWave TaskD](https://github.com/agustinpic72/alphawave-taskd)** — a local-first task command center built with FastAPI, React, TypeScript, SQLite, and Docker. Open-source release: **v0.1.0**.
-- **MT5 Backtesting Toolkit** — Coming soon - sanitized public extraction in progress.
+- **[MT5 Backtesting Toolkit](https://github.com/agustinpic72/mt5-backtesting-toolkit)** — a
+  strategy-free Python toolkit for reproducible backtesting experiments, with validated manifests,
+  deterministic adapters, synthetic result parsers, stable reports, and Linux/Windows CI.
 - **Velari Workflow Reliability Showcase** — Coming later - sanitized architecture showcase.
 
 ## Core stack
