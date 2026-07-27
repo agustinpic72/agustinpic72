@@ -2,7 +2,9 @@
 
 Python Software Engineer and backend-leaning Full-Stack Engineer building SaaS products, APIs, automation, and practical AI integrations.
 
-I'm open to remote Python Backend and Full-Stack roles, available immediately, and an Italian citizen with full EU work authorization.
+I'm currently open to remote Python Backend and Full-Stack opportunities.
+
+Italian citizen with full EU work authorization. Available immediately.
 
 ## Selected work
 
